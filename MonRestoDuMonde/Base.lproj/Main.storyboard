@@ -44,11 +44,11 @@
             </objects>
             <point key="canvasLocation" x="-792" y="-80"/>
         </scene>
-        <!--Item 1-->
+        <!--Menu-->
         <scene sceneID="OQv-5d-seS">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="Oq0-AN-uFf" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item 1" id="Ppn-8k-ggn"/>
+                    <tabBarItem key="tabBarItem" title="Menu" id="Ppn-8k-ggn"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="VfE-yv-cWM">
                         <rect key="frame" x="0.0" y="20" width="375" height="44"/>
