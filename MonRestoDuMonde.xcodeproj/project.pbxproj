@@ -15,6 +15,7 @@
 		6364FF0022B04220003B2CE8 /* ALaCarteController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6364FEFF22B04220003B2CE8 /* ALaCarteController.swift */; };
 		6364FF0222B04431003B2CE8 /* MonTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6364FF0122B04431003B2CE8 /* MonTabBar.swift */; };
 		6364FF0522B044A0003B2CE8 /* Constantes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6364FF0422B044A0003B2CE8 /* Constantes.swift */; };
+		6364FF0722B26D36003B2CE8 /* MonNav.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6364FF0622B26D36003B2CE8 /* MonNav.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		6364FEFF22B04220003B2CE8 /* ALaCarteController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ALaCarteController.swift; sourceTree = "<group>"; };
 		6364FF0122B04431003B2CE8 /* MonTabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonTabBar.swift; sourceTree = "<group>"; };
 		6364FF0422B044A0003B2CE8 /* Constantes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constantes.swift; sourceTree = "<group>"; };
+		6364FF0622B26D36003B2CE8 /* MonNav.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonNav.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 				6364FEFD22B04172003B2CE8 /* MenuController.swift */,
 				6364FEFF22B04220003B2CE8 /* ALaCarteController.swift */,
 				6364FF0122B04431003B2CE8 /* MonTabBar.swift */,
+				6364FF0622B26D36003B2CE8 /* MonNav.swift */,
 			);
 			path = Controleur;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 			files = (
 				6364FF0522B044A0003B2CE8 /* Constantes.swift in Sources */,
 				6364FF0222B04431003B2CE8 /* MonTabBar.swift in Sources */,
+				6364FF0722B26D36003B2CE8 /* MonNav.swift in Sources */,
 				6364FEFE22B04172003B2CE8 /* MenuController.swift in Sources */,
 				6364FEE922B03D15003B2CE8 /* AppDelegate.swift in Sources */,
 				6364FF0022B04220003B2CE8 /* ALaCarteController.swift in Sources */,

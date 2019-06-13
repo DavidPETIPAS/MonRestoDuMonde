@@ -26,10 +26,10 @@
             </objects>
             <point key="canvasLocation" x="1098.4000000000001" y="-411.544227886057"/>
         </scene>
-        <!--Tab Bar Controller-->
+        <!--Mon Tab Bar-->
         <scene sceneID="2Mg-TG-o3S">
             <objects>
-                <tabBarController id="CBm-0I-e1a" sceneMemberID="viewController">
+                <tabBarController id="CBm-0I-e1a" customClass="MonTabBar" customModule="MonRestoDuMonde" customModuleProvider="target" sceneMemberID="viewController">
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="CTb-iY-OxY">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="49"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -47,7 +47,7 @@
         <!--Menu-->
         <scene sceneID="OQv-5d-seS">
             <objects>
-                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="Oq0-AN-uFf" sceneMemberID="viewController">
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="Oq0-AN-uFf" customClass="MonNav" customModule="MonRestoDuMonde" customModuleProvider="target" sceneMemberID="viewController">
                     <tabBarItem key="tabBarItem" title="Menu" id="Ppn-8k-ggn"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="VfE-yv-cWM">
@@ -95,7 +95,7 @@
         <!--Item-->
         <scene sceneID="CuA-24-6vv">
             <objects>
-                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="gYl-8x-YTZ" sceneMemberID="viewController">
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="gYl-8x-YTZ" customClass="MonNav" customModule="MonRestoDuMonde" customModuleProvider="target" sceneMemberID="viewController">
                     <tabBarItem key="tabBarItem" title="Item" id="v6Z-hf-PTk"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="Abi-uL-EGr">
